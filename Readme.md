@@ -1,45 +1,31 @@
-# 🎮 Curso de Lógica de Programación
+# 📝 Actividades Adicionales de Práctica
 
-## 🚀 Introducción
-Bienvenidos a nuestro curso de lógica de programación. Para poder programar, necesitamos un lugar donde escribir el código. Los programadores utilizan herramientas y sistemas para escribir y ejecutar su código.
+## 🎯 Introducción
 
-En este curso, vamos a utilizar **Visual Studio Code**, una de las herramientas más populares del mercado. Aquí encontrarás un artículo que describe otras herramientas disponibles y explica por qué preferimos Visual Studio Code para aprender JavaScript y lógica de programación.
+Programar requiere práctica. Hemos creado una lista adicional de actividades, para que practiques y refuerces aún más tu aprendizaje. ¿Listo para practicar?
 
-## 📝 Proyecto Inicial
-El proyecto inicial es muy simple y consta de tres archivos:
+## 💡 Desafíos
 
-- **index.html**: Archivo HTML.
-- **style.css**: Archivo CSS para estilos.
-- **app.js**: Archivo JavaScript que por ahora está vacío.
+1. **Día de la semana:**
+   - Pregunta al usuario qué día de la semana es.
+   - Si la respuesta es "Sábado" o "Domingo", muestra "¡Buen fin de semana!".
+   - De lo contrario, muestra "¡Buena semana!".
 
-## 🎯 Descripción del Juego
-El objetivo del juego es adivinar un número. La dinámica es la siguiente:
+2. **Número positivo o negativo:**
+   - Verifica si un número ingresado por el usuario es positivo o negativo.
+   - Muestra una alerta informativa.
 
-1. Una persona piensa en un número del 1 al 10 y lo anota en un papel.
-2. La otra persona intenta adivinar el número mediante preguntas.
-3. Las respuestas son "mayor" o "menor" hasta que se acierta el número.
+3. **Sistema de puntuación:**
+   - Crea un sistema de puntuación para un juego.
+   - Si la puntuación es mayor o igual a 100, muestra "¡Felicidades, has ganado!".
+   - En caso contrario, muestra "Inténtalo nuevamente para ganar.".
 
-En el contexto del juego, el número pensado por la primera persona es como una variable en la memoria del computador. El proceso de adivinar el número implica interacciones que se asemejan a enlaces o comunicaciones entre variables y funciones.
+4. **Mensaje de saldo:**
+   - Crea un mensaje que informe al usuario sobre el saldo de su cuenta, utilizando un template string para incluir el valor del saldo.
 
-## 🖥️ Configuración del Ambiente
-Para preparar el ambiente de desarrollo, sigue estos pasos:
+5. **Bienvenida personalizada:**
+   - Pide al usuario que ingrese su nombre mediante un prompt.
+   - Luego, muestra una alerta de bienvenida usando ese nombre.
 
-1. **Descargar Visual Studio Code**: Sigue al siguiente enlace (https://code.visualstudio.com/download) que explica cómo hacerlo para Windows o macOS.
-2. **Importar el Proyecto Inicial**: Descarga la carpeta del proyecto inicial desde aqui (https://github.com/SILVIAGONZALEZ1/2034-logica-programacion-1)
 
-## 📂 Estructura del Proyecto
-La estructura del proyecto inicial incluye los siguientes archivos:
-
-- `index.html`: Página principal del juego.
-- `style.css`: Estilos de la página.
-- `app.js`: Archivo JavaScript donde implementaremos la lógica del juego.
-
-No te preocupes si al principio no entiendes todo el código.
-
-## 📢 Contribuir
-Si deseas contribuir a este proyecto, por favor, abre un *pull request* y describe claramente los cambios que estás proponiendo.
-
-## 🚀 Autores
-Desarrollado por Gonzalez Silvia.
-
-Siéntete libre de ajustar los detalles según tu implementación y preferencias específicas.
+¡Disfruta de los desafíos y sigue practicando para mejorar tus habilidades de programación! 🚀
